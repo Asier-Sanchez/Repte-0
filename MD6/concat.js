@@ -1,0 +1,12 @@
+let a = [1, 2];
+let b = [3, 4];
+let d = [5, 6];
+let c = a.concat(b);
+console.log(c);
+console.log(a);
+c = c.concat(d);
+console.log(c);
+let a = [1, 2];
+let b = [3, 4];
+let c = a.concat(b);
+console.log(c);
